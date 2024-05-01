@@ -1,2 +1,4 @@
 # SR-ECOMMERCE-SALES-REPORT
-Power BI Dashboard for Sales
+POWER BI DASHBOARD FOR SALES:
+Objectives:
+To provide real-time insights into key performance metrics and trends enabling the management to analyze the sales effectively.
