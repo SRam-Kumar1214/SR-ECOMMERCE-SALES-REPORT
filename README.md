@@ -15,7 +15,6 @@ Most orders Category wise(Ascending):Clothes, Furniture and Electronics<br>
 Top Customers:Harivansh, Madhav, Madan Mohan, Shiva<br>
 Most Revenue Genearating States(Ascending):Maharashtra, Madhya Pradesh, Uttar Pradesh, Gujarar<br>
 Most Quantities are ordered by Cash on Delivery Mode<br>
-<br>
 These are some of the insights.As it is an Interactive Dashboard, user can get various insights on their business.
 <br>
 steps:<br>
