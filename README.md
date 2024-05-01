@@ -1,10 +1,10 @@
 # SR-ECOMMERCE-SALES-REPORT
-POWER BI DASHBOARD FOR SALES:<br>
-Objectives:<br>
+**POWER BI DASHBOARD FOR SALES:**<br>
+**Objectives:**<br>
 To provide real-time insights into key performance metrics and trends enabling the management to analyze the sales effectively.<br>
-Technologies used:<br>
+**Technologies used:**<br>
 POWERBI,EXCEL<br>
-Project Insights:<br>
+**Project Insights:**<br>
 Overall order Amount: 438k<br>
 Overall profit: 37k<br>
 Total number of Quantity: 5615<br>
@@ -17,7 +17,7 @@ Most Revenue Genearating States(Ascending):Maharashtra, Madhya Pradesh, Uttar Pr
 Most Quantities are ordered by Cash on Delivery Mode<br>
 These are some of the insights.As it is an Interactive Dashboard, user can get various insights on their business.
 <br>
-steps:<br>
+**steps:**<br>
 Collect the data in any format like Excel, CSV, SQL etc.<br>
 Data Cleaning must be done it can be done on the base file as well as power query editor.<br>
 use DAX Queries wherever required.<br>
